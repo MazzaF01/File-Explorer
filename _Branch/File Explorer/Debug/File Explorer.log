@@ -1,0 +1,13 @@
+﻿  Origine.cpp
+c:\dev\c++\file explorer\_branch\file explorer\origine.cpp(27): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\dev\c++\file explorer\_branch\file explorer\origine.cpp(31): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  system.cpp
+c:\dev\c++\file explorer\_branch\file explorer\system.cpp(36): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\dev\c++\file explorer\_branch\file explorer\system.cpp(37): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\dev\c++\file explorer\_branch\file explorer\system.cpp(98): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\dev\c++\file explorer\_branch\file explorer\system.cpp(104): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\dev\c++\file explorer\_branch\file explorer\system.cpp(117): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\dev\c++\file explorer\_branch\file explorer\system.cpp(119): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\dev\c++\file explorer\_branch\file explorer\system.cpp(134): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  Generazione del codice in corso...
+  File Explorer.vcxproj -> C:\dev\C++\File Explorer\_Branch\Debug\File Explorer.exe

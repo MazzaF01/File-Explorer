@@ -1,0 +1,4 @@
+﻿  Origine.cpp
+c:\dev\c++\file explorer\file explorer\origine.cpp(27): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\dev\c++\file explorer\file explorer\origine.cpp(31): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  File Explorer.vcxproj -> C:\dev\C++\File Explorer\Debug\File Explorer.exe
